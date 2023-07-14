@@ -30,4 +30,7 @@
       docker-compose down
 ###
 
+- Create an app
 
+
+      docker-compose run --rm app sh -c "python manage.py startapp core"
