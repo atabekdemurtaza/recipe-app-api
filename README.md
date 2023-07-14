@@ -12,3 +12,22 @@
 </div>
 
 ###
+
+###
+
+- In order to collect a docker piece of code below
+
+      docker-compose build 
+
+
+- Do not forget to execute it
+
+      docker-compose up 
+
+
+- In order to stop type this
+
+      docker-compose down
+###
+
+
